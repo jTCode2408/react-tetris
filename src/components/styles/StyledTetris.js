@@ -24,4 +24,4 @@ aside {
     display: block;
     padding: 0 20px;
 }
-`
+` //styling for game div
